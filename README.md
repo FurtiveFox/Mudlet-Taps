@@ -1,1 +1,1 @@
-Mudlet-Taps
+A collection of scripts and such for Mudlet for use on Tapestries Muck.
